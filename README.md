@@ -22,20 +22,25 @@ TETcollective, Rome, Italy
 - `TU_GUT_SYSY_v24.1.pdf` – Compiled paper
 - `main.tex` – LaTeX source code
 - `README.md` – This file
-- `LICENSE.md` – License
 
 ## Related Work
 
 This version (v24.1) extends and refines ideas presented in the previous version:  
 Soliman, S. (2025). From Ultraclean Graphene to the Cosmological Constant: A Single Measured Scale Unifies Laboratory and Cosmos (TU_GUT_SYSY v24). Zenodo. https://doi.org/10.5281/zenodo.17932055
 
-## License
+## Copyright and Usage Rights
 
-This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License** (CC BY-NC 4.0).  
-See `LICENSE.md` for details.
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-## Citation
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
 
-If you use or reference this work, please cite the Zenodo record (DOI to be assigned upon release).
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
+
 
 Last updated: 30 December 2025
